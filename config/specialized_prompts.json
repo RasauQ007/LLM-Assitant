@@ -1,0 +1,18 @@
+{
+  "historical_quote": "Provide a famous historical quote. Include the quote and the person who said it.",
+  "famous_artist": "Name a famous artist and one of their well-known works.",
+  "fun_fact": "Share a fun and interesting fact.",
+  "summarise": "Summarise this clearly and concisely.",
+  "explain_simple": "Explain the topic in a very simple way, as if you are talking to a five-year-old.",
+  "define_term": "Define the following term clearly and concisely.",
+  "compare_items": "Compare the following two items, highlighting their similarities and differences.",
+  "step_by_step": "Provide a clear step-by-step explanation or set of instructions.",
+  "funny_response": "Give a light-hearted or humorous reply to this request.",
+  "motivational_quote": "Provide a motivational quote. Include the quote and the speaker.",
+  "tech_summary": "Summarise the following technical concept in simple terms.",
+  "historical_event": "Provide a short summary of this historical event.",
+  "book_summary": "Summarise the main ideas of this book or story.",
+  "movie_explainer": "Explain the plot or theme of this film.",
+  "science_fact": "Share an interesting scientific fact.",
+  "code_explanation": "Explain what the following code does, using simple language."
+}
